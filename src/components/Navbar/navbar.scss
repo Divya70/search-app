@@ -1,0 +1,22 @@
+.search-input-div {
+  padding: 2rem;
+  position: relative;
+}
+.search-input {
+  width: 20rem;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  border: none;
+  outline: none;
+  transition: all 0.25 linear;
+  font-size: 1rem;
+}
+.search-input:focus {
+  outline: none;
+}
+.search-icon {
+  position: absolute;
+  left: 46rem;
+  top: 2.7rem;
+  color: grey;
+}
